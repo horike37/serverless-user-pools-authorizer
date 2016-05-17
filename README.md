@@ -1,3 +1,4 @@
+[![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
 # serverless-user-pools-authorizer
 ## Overview
 This is a Serverless project that provides API Gateway Custome Authorizer using User Pools on Cognito.
